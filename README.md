@@ -38,3 +38,12 @@
    - `2023.06-2023.12` &nbsp; <image src="https://avatars.githubusercontent.com/u/88082564?s=200&v=4" height="15px"> <b>Programmers / </b>Frontend Dev-Course&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>`<= current`</b>
    -  `2015.03-2023.02` &nbsp; <image src="https://deu.ac.kr/Upload/www/favicon/2018/1213091943440.ico"> <b>DONG-EUI University / </b>Computer Science
 </div>
+
+<br />
+
+## ✉️ Contact
+   
+<div align="left">
+   
+   - `email` &nbsp; <b>kakkiid@kakao.com<b> &nbsp;|&nbsp;  <b>bfwanso@naver.com</b>   
+</div>
