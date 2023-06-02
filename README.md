@@ -13,8 +13,18 @@
 
 <br />
 
+#
+
+<br />
+
+
+
 <div align="center">
-  
+ 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khakhid&show_icons=true&theme=swift)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khakhid&layout=compact&theme=swift)
 </div>
+
+<br />
+
+## Education 🎓
 
