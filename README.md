@@ -26,7 +26,7 @@
 
 <br />
 
-## Education 🎓
+## 🎓 Education
 
 <div align="left">
    
