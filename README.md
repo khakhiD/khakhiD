@@ -6,7 +6,7 @@
    
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&weight=700&size=50&duration=2500&pause=1500&color=0477BF&center=true&vCenter=true&width=500&height=60&lines=Annyeong-haseyo!;KhakiD++imnida.)](https://git.io/typing-svg)
 
-`예쁘고 사용하기 편한 UI/UX 를 만들고 싶은 사람,`&nbsp;<b><i>카키디</i></b>&nbsp;`입니다.`👋<br/> 
+`예쁘고 사용하기 편한 UI/UX 를 만들고 싶은 `&nbsp;<b><i>카키디</i></b>&nbsp;`입니다.`👋<br/> 
 `사용자들과 즐거운 추억을 지지고 볶는 웹 서비스를 개발하고 싶습니다.`
   
 </div>
