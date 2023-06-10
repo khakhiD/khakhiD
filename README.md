@@ -50,3 +50,11 @@
    - `email` &nbsp; ✉️ <b>kakkiid@kakao.com<b> &nbsp;|&nbsp;  ✉️ <b>bfwanso@naver.com</b>
    
 </div>
+
+<br /><br />
+   
+<div align="center">
+   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhakhid%2Fkhakhid&count_bg=%23555555&title_bg=%23758BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
