@@ -41,9 +41,12 @@
 
 <br />
 
-## ✉️ Contact
+## 👋 Contact
    
 <div align="left">
+
+   - `site` &nbsp;&nbsp; 📝 <b><a href="https://khakidiggin-log.vercel.app/" target="_blank">Tech-Blog</a></b>
    
-   - `email` &nbsp; <b>kakkiid@kakao.com<b> &nbsp;|&nbsp;  <b>bfwanso@naver.com</b>   
+   - `email` &nbsp; ✉️ <b>kakkiid@kakao.com<b> &nbsp;|&nbsp;  ✉️ <b>bfwanso@naver.com</b>
+   
 </div>
