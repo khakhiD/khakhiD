@@ -6,8 +6,8 @@
    
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&weight=700&size=50&duration=2500&pause=1500&color=0477BF&center=true&vCenter=true&width=500&height=60&lines=Annyeong-haseyo!;KhakiD++imnida.)](https://git.io/typing-svg)
 
-`예쁘고 사용하기 편한 UI/UX 를 만들고 싶은 `&nbsp;<b><i>카키디-신동호</i></b>&nbsp;`입니다.`👋<br/> 
-`즐거운 추억을 지지고 볶을 수 있는 웹 서비스를 개발하고 싶습니다.`
+`안녕하세요. 프론트엔드 개발자 `&nbsp;<b><i>카키디</i></b>&nbsp;`입니다.`👋<br/> 
+`사용자 경험이 훌륭한 프로덕트를 개발하고 싶습니다.`
   
 </div>
 
@@ -21,13 +21,17 @@
 
 <div align="center">
 
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khakhid&theme=tokyo-night&radius=16&bg_color=f7f7f7&area=true&hide_title=true&hide_border=true&point=0477BF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
    <br /><br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khakhid&layout=compact&theme=swift)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khakhid&show_icons=true&theme=swift)
 
    
 
 </div>
+
+<br />
 
 <br />
 
