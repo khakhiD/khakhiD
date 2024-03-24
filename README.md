@@ -25,7 +25,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khakhid&theme=tokyo-night&radius=16&bg_color=f7f7f7&area=true&hide_title=true&hide_border=true&point=0477BF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
    <br /><br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khakhid&layout=compact&theme=swift)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khakhid&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khakhid&layout=compact&theme=swift) <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khakhid&show_icons=true&theme=swift) -->
 
    
 
