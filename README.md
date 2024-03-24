@@ -50,7 +50,6 @@
 <div align="left">
 
    - `blog` &nbsp;&nbsp; 📝 <b><a href="https://khakidiggin-log.vercel.app/" target="_blank">블로그</a></b>
-   
    - `email` &nbsp; <!-- ✉️ <b>kakkiid@kakao.com<b> &nbsp;|&nbsp; --> ✉️ <b>bfwanso@naver.com</b>
    
 </div>
