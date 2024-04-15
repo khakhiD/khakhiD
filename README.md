@@ -25,7 +25,7 @@
 
 <br />
 
-## Tools
+## Skills
 
 <div align="left">
 
