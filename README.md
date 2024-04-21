@@ -2,7 +2,7 @@
    <p><strong><i>Slamat pagi</i></strong></p>
 </div>
 <br /> <br />
-<div align="center">
+<div align="left">
    
    ![GITHUB-GREETING-IMG](https://github.com/khakhiD/boiler-plate-ko/assets/74141521/7b85a136-5244-4ae5-ab9c-91eb25f70842)
 
@@ -10,8 +10,8 @@
 
 <br />
 
-**안녕하세요.** 상상을 구체화하는 도구로 웹 개발을 선택한 <b>카키디</b>입니다.<br/> 
-엉뚱한 상상과 끈질긴 고찰로 사람을 돕는 프로덕트를 만들고자 합니다.
+<!-- **안녕하세요.** 상상을 구체화하는 도구로 웹 개발을 선택한 <b>카키디</b>입니다.<br/> 
+엉뚱한 상상과 끈질긴 고찰로 사람을 돕는 프로덕트를 만들고자 합니다. -->
 
 <br />
 
