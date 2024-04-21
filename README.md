@@ -2,7 +2,7 @@
    <p><strong><i>Slamat pagi</i></strong></p>
 </div>
 <br /> <br />
-<div align="left">
+<div align="center">
    
    ![GITHUB-GREETING-IMG](https://github.com/khakhiD/boiler-plate-ko/assets/74141521/7b85a136-5244-4ae5-ab9c-91eb25f70842)
 
