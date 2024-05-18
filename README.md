@@ -1,12 +1,12 @@
 <div align="right">
-   <p><strong><i>Slamat pagi!</i></strong></p>
+   <p><strong><i>Slamat pagi</i></strong></p>
 </div>
 <br /> <br />
 <div align="center">
    
    ![GITHUB-GREETING-IMG](https://github.com/khakhiD/boiler-plate-ko/assets/74141521/7b85a136-5244-4ae5-ab9c-91eb25f70842)
 
-   <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&weight=700&size=50&duration=2500&pause=1500&color=0477BF&center=true&vCenter=true&width=500&height=60&lines=Annyeong-haseyo!;KhakiD++imnida.)](https://git.io/typing-svg) -->
+   <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&weight=700&size=50&duration=2500&pause=1500&color=0477BF&center=true&vCenter=true&width=500&height=60&lines=Annyeong-haseyo!;KhakiD++imnida.)](https://git.io/typing-svg)-->
 
 <br />
 
@@ -39,7 +39,7 @@
 
 <!-- </div> -->
 
-## Education
+<!-- ## Education
 
 <div align="left">
    
@@ -47,7 +47,7 @@
    -  `2015.03-2023.02` &nbsp; <image src="https://deu.ac.kr/Upload/www/favicon/2018/1213091943440.ico"> <b>DONG-EUI University &nbsp;|&nbsp; </b><a href="https://computer.deu.ac.kr/computer/index.do">Computer Engineering</a>&nbsp;
 </div>
 
-<br />
+<br /> -->
 
 ## Skills
 
@@ -57,10 +57,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 </div>
 
