@@ -1,6 +1,6 @@
 <div align="right">
    <p><strong><i>Slamat pagi</i></strong></p>
-</div>
+</div> 
 <br /> <br />
 <div align="center">
    
