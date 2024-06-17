@@ -1,5 +1,5 @@
 <div align="right">
-   <p><strong><i>Slamat pagi</i></strong></p>
+   <p><strong><i>👋Slamat pagi</i></strong></p>
 </div> 
 <br /> <br />
 <div align="center">
