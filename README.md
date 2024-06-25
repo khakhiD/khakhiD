@@ -21,8 +21,8 @@
    
 <div align="left">
 
-   - `blog` &nbsp;&nbsp; **<a href="https://khakidiggin-log.vercel.app/" target="_blank">dongho-log</a>**
-   - `mail` &nbsp; <!-- ✉️ <b>kakkiid@kakao.com<b> &nbsp;|&nbsp; --> bfwanso@naver.com
+   - `blog` &nbsp;&nbsp; <a href="https://khakidiggin-log.vercel.app/" target="_blank">dongho-log</a>
+   - `mail` &nbsp;&nbsp; <!-- ✉️ <b>kakkiid@kakao.com<b> &nbsp;|&nbsp; --> <a href="mailto:bfwanso@naver.com" target="_blank">bfwanso@naver.com</a>
    
 </div>
 
