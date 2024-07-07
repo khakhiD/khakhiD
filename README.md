@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/khakid/" target="_blank">**linkedin**: @khakid</a>&nbsp;&nbsp;&nbsp;
 
 <pre>
-쉬운 사람입니다. 열린 마음으로 아무말 대잔치를 기다려요! 👆
+새로운 만남은 언제나 환영! 열린 마음으로 아무말 대잔치를 기다립니다. 👆
 </pre>
 </div>
 
