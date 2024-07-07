@@ -9,13 +9,14 @@
    <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&weight=700&size=50&duration=2500&pause=1500&color=0477BF&center=true&vCenter=true&width=500&height=60&lines=Annyeong-haseyo!;KhakiD++imnida.)](https://git.io/typing-svg)-->
 
 <br />
+<br />
 <pre>
-안녕하세요! 상상을 구체화하는 도구로 개발을 선택한 <strong>카키디</strong>입니다.
-코드를 넘어 기획과 디자인 그리고 UI·UX에 관심과 흥미를 가지고 있어요.
 엉뚱한 상상과 끈질긴 고찰로 사람을 돕는 프로덕트를 만들고자 합니다.
+코드를 넘어 기획과 디자인 그리고 UI·UX에 관심과 흥미를 가지고 있어요.
 </pre>
 </div>
 
+<br />
 <br />
 
 ## Contact
