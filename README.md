@@ -9,23 +9,27 @@
    <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi+Fun&weight=700&size=50&duration=2500&pause=1500&color=0477BF&center=true&vCenter=true&width=500&height=60&lines=Annyeong-haseyo!;KhakiD++imnida.)](https://git.io/typing-svg)-->
 
 <br />
-
-<!-- **안녕하세요.** 상상을 구체화하는 도구로 웹 개발을 선택한 <b>카키디</b>입니다.<br/> 
-엉뚱한 상상과 끈질긴 고찰로 사람을 돕는 프로덕트를 만들고자 합니다. -->
-
+<pre>
+안녕하세요! 상상을 구체화하는 도구로 개발을 선택한 <strong>카키디</strong>입니다.
+코드를 넘어 기획과 디자인 그리고 UI·UX에 관심과 흥미를 가지고 있어요.
+엉뚱한 상상과 끈질긴 고찰로 사람을 돕는 프로덕트를 만들고자 합니다.
+</pre>
 </div>
 
 <br />
 
 ## Contact
    
-<div align="left">
+<div align="center">
 
-   - `blog` &nbsp;&nbsp; <a href="https://khakidiggin-log.vercel.app/" target="_blank">dongho-log</a>
-   - `mail` &nbsp;&nbsp; <!-- ✉️ <b>kakkiid@kakao.com<b> &nbsp;|&nbsp; --> <a href="mailto:bfwanso@naver.com" target="_blank">bfwanso@naver.com</a>
-   
+<a href="https://www.dongho.xyz/" target="_blank">**blog**: dongho.xyz</a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:bfwanso@naver.com" target="_blank">**email**: bfwanso@naver.com</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/khakid/" target="_blank">**linkedin**: @khakid</a>&nbsp;&nbsp;&nbsp;
+
+<pre>
+쉬운 사람입니다. 열린 마음으로 아무말 대잔치를 기다려요! 👆
+</pre>
 </div>
-
 
 <!-- <div align="center"> -->
 
@@ -39,23 +43,21 @@
 
 <!-- </div> -->
 
-<!-- ## Education
+## Education
 
 <div align="left">
    
-   - `2023.06-2023.12` &nbsp; <image src="https://avatars.githubusercontent.com/u/88082564?s=200&v=4" height="15px"> <b>Programmers &nbsp;|&nbsp; </b><a href="https://school.programmers.co.kr/learn/courses/16623/16623-4%EA%B8%B0-k-digital-training-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81">Bigdata Platform Frontend Engineering Dev-Course 4th</a>&nbsp;
-   -  `2015.03-2023.02` &nbsp; <image src="https://deu.ac.kr/Upload/www/favicon/2018/1213091943440.ico"> <b>DONG-EUI University &nbsp;|&nbsp; </b><a href="https://computer.deu.ac.kr/computer/index.do">Computer Engineering</a>&nbsp;
+`2023.06-2023.12` &nbsp; <image src="https://avatars.githubusercontent.com/u/88082564?s=200&v=4" height="15px" width="15px"> <b>Programmers &nbsp;|&nbsp; </b><a href="https://school.programmers.co.kr/learn/courses/16623/16623-4%EA%B8%B0-k-digital-training-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81">Bigdata Platform Frontend Engineering Dev-Course 4th</a>&nbsp; <br />
+`2015.03-2023.02` &nbsp; <image src="https://deu.ac.kr/Upload/www/favicon/2018/1213091943440.ico" height="15px" width="15px"> <b>DONG-EUI University &nbsp;|&nbsp; </b><a href="https://computer.deu.ac.kr/computer/index.do">Computer Engineering</a>&nbsp;
 </div>
 
-<br /> -->
+<br />
 
 ## Skills
 
-<div>
+<div align="center">
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premire](https://img.shields.io/badge/adobe%20premiere%20pro-%9999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br />![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premire](https://img.shields.io/badge/adobe%20premiere%20pro-%9999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 
 
 </div>
