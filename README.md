@@ -23,7 +23,7 @@
    
 <div align="center">
 
-<a href="https://www.dongho.xyz/" target="_blank">**blog**: dongho.xyz</a> &nbsp;&nbsp;&nbsp;
+<a href="https://khakidiggin-log.vercel.app/" target="_blank">**blog**: dongho.xyz</a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:bfwanso@naver.com" target="_blank">**email**: bfwanso@naver.com</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/khakid/" target="_blank">**linkedin**: @khakid</a>&nbsp;&nbsp;&nbsp;
 
