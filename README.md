@@ -10,9 +10,6 @@
 
 <br />
 <br />
-<pre>
-Hi
-</pre>
 </div>
 
 <br />
@@ -23,7 +20,7 @@ Hi
 <div align="center">
 
 <a href="https://khakidiggin-log.vercel.app/" target="_blank">**blog**: dongho.xyz</a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:bfwanso@naver.com" target="_blank">**email**: bfwanso@naver.com</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:bfwanso@naver.com" target="_blank">**email**: kakkiid@gmail.com</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/khakid/" target="_blank">**linkedin**: @khakid</a>&nbsp;&nbsp;&nbsp;
 
 </div>
@@ -56,8 +53,8 @@ Hi
 
 ### Familiar with
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br />![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premire](https://img.shields.io/badge/adobe%20premiere%20pro-%9999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&amp;logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&amp;logoColor=0175C2) ![Vue](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&amp;logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&amp;logoColor=0175C2) ![Vue](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&amp;logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br />![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premire](https://img.shields.io/badge/adobe%20premiere%20pro-%9999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 
 </div>
 
