@@ -37,13 +37,7 @@
 
 <!-- </div> -->
 
-## Education
 
-<div align="left">
-   
-`2023.06-2023.12` &nbsp; <image src="https://avatars.githubusercontent.com/u/88082564?s=200&v=4" height="15px" width="15px"> <b>Programmers &nbsp;|&nbsp; </b><a href="https://school.programmers.co.kr/learn/courses/16623/16623-4%EA%B8%B0-k-digital-training-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81">Bigdata Platform Frontend Engineering Dev-Course 4th</a>&nbsp; <br />
-`2015.03-2023.02` &nbsp; <image src="https://deu.ac.kr/Upload/www/favicon/2018/1213091943440.ico" height="15px" width="15px"> <b>DONG-EUI University &nbsp;|&nbsp; </b><a href="https://computer.deu.ac.kr/computer/index.do">Computer Engineering</a>&nbsp;
-</div>
 
 <br />
 
@@ -58,7 +52,13 @@
 
 </div>
 
+## Education
 
+<div align="left">
+   
+`2023.06-2023.12` &nbsp; <image src="https://avatars.githubusercontent.com/u/88082564?s=200&v=4" height="15px" width="15px"> <b>Programmers &nbsp;|&nbsp; </b><a href="https://school.programmers.co.kr/learn/courses/16623/16623-4%EA%B8%B0-k-digital-training-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81">Bigdata Platform Frontend Engineering Dev-Course 4th</a>&nbsp; <br />
+`2015.03-2023.02` &nbsp; <image src="https://deu.ac.kr/Upload/www/favicon/2018/1213091943440.ico" height="15px" width="15px"> <b>DONG-EUI University &nbsp;|&nbsp; </b><a href="https://computer.deu.ac.kr/computer/index.do">Computer Engineering</a>&nbsp;
+</div>
 
 
 
