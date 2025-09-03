@@ -1,5 +1,5 @@
 <div align="right">
-   <p><strong><i>👋Slamat pagi</i></strong></p>
+   <p><i>halo dunia</i></strong></p>
 </div> 
 <br /> <br />
 <div align="center">
@@ -14,8 +14,6 @@
 
 <br />
 <br />
-
-## Contact
    
 <div align="center">
 
@@ -38,6 +36,7 @@
 <!-- </div> -->
 
 
+<!-- 25.09.03 updated: 주석 처리 
 
 <br />
 
@@ -47,8 +46,6 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br /> ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&amp;logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&amp;logoColor=0175C2) ![Vue](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&amp;logoColor=white) <br />
-
-<!-- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premire](https://img.shields.io/badge/adobe%20premiere%20pro-%9999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white) -->
 
 </div>
 
@@ -60,7 +57,7 @@
 `2015.03-2023.02` &nbsp; <image src="https://deu.ac.kr/Upload/www/favicon/2018/1213091943440.ico" height="15px" width="15px"> <b>DONG-EUI University &nbsp;|&nbsp; </b><a href="https://computer.deu.ac.kr/computer/index.do">Computer Engineering</a>&nbsp;
 </div>
 
-
+-->
 
 
 <br /><br /><br />
