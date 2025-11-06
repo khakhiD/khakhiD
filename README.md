@@ -17,9 +17,9 @@
    
 <div align="center">
 
-<a href="https://khakidiggin-log.vercel.app/" target="_blank">**Blog**</a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:bfwanso@naver.com" target="_blank">**Email**</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/khakid/" target="_blank">**Linkedin**</a>&nbsp;&nbsp;&nbsp;
+<a href="https://khakidiggin-log.vercel.app/" target="_blank">**blog**</a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:bfwanso@naver.com" target="_blank">**email**</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/khakid/" target="_blank">**linkedin**</a>&nbsp;&nbsp;&nbsp;
 
 </div>
 
