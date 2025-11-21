@@ -65,8 +65,9 @@
 <div align="center">
    
 [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FkhakhiD?color=gray&label=Hits&size=small)](https://myhits.vercel.app)
-
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhakhid%2Fkhakhid&count_bg=%23555555&title_bg=%23048ABF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 </div>
 
